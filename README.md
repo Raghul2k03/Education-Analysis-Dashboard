@@ -112,7 +112,7 @@ The repository contains the following files:
 ## 10. Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](Overview Dashboard.png)
+![Overview Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/Overview%20Dashboard.png)
 
 ### 10th Dashboard
 ![10th Dashboard](10th Dashboard.png)
