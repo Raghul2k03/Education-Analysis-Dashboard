@@ -111,6 +111,9 @@ The repository contains the following files:
 
 ## 10. Dashboard Preview
 
+### Overview Dashboard
+![Overview Dashboard](Overview Dashboard.png)
+
 ### 10th Dashboard
 ![10th Dashboard](10th Dashboard.png)
 
