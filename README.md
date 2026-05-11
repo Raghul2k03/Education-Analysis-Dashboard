@@ -118,10 +118,10 @@ The repository contains the following files:
 ![10th Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/10th%20Dashboard.png)
 
 ### 11th Dashboard
-![11th Dashboard](11th Dashboard.png)
+![11th Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/11th%20Dashboard.png)
 
 ### 12th Dashboard
-![12th Dashboard](12th Dashboard.png)
+![12th Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/12th%20Dashboard.png)
 
 ---
 
